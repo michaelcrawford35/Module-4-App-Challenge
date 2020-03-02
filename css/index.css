@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+h1{
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+footer{
+    text-align: center;
+    font-size: larger;
+    position:fixed;bottom:0;left:0;right:0;height:75px;
+    background-color: darkgray;
+}
+a{
+    color: darkblue;
+}
+.temps{
+    padding-right: 1em;
+}
+.tempsout{
+    float: left;
+    text-align: center;
+}
+.main{
+    font-size: x-large;
+}
